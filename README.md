@@ -74,4 +74,6 @@ g++ main.cpp -o triangle -lglut -lGLU -lGL
 Triangle-Animation/
 │── main.cpp
 │── README.md
-│── screenshots/
+│── screenshots/🔷 Triangle Animation Project
+
+
